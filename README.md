@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhabAdhikary
-- 🌱 I’m currently learning wordpress,seo and figma.
+- 🌱 I’m currently learning react js
 - 📫 How to reach me https://twitter.com/adhikary_m57526
 
 <!---
